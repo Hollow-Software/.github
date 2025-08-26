@@ -49,11 +49,12 @@
 <h3 align="center">About ME | 关于我</h3>
 
 <p>
-  🌱 I'm a doctoral researcher at the <a href="https://www.aalto.fi/en/department-of-computer-science">Department of
-    Computer Science</a>, <a href="https://www.aalto.fi/en">Aalto University</a>, 🇫🇮. I'm also an <strong>Erasmus
-    Mundus</strong> 🇪🇺 2022 batch alumni of the <a href="https://secclo.eu/">SECCLO</a> master program at <a
-    href="https://www.aalto.fi/en">Aalto University</a>, 🇫🇮 & <a href="https://www.dtu.dk/english">Technical
-    University of Denmark</a>, 🇩🇰.
+  🌱 I'm now a doctoral researcher in the field of <i>AI infrastructure</i> at the <a href="https://www.aalto.fi/en/department-of-computer-science">Department of
+    Computer Science</a>, <a href="https://www.aalto.fi/en">Aalto University</a>, 🇫🇮.  In 2024, I completed the
+    <a href="https://secclo.eu/">SECCLO (<i>Security and Cloud Computing</i>)</a> <strong>Erasmus Mundus</strong> 🇪🇺 master’s program, at
+    <a href="https://www.aalto.fi/en">Aalto University</a>, 🇫🇮 and the <a href="https://www.dtu.dk/english">Technical University of Denmark</a>, 🇩🇰.
+    I received my bachelor's degree from the <i>Specialized Class for Fundamentals and Theories of Computer Science</i> at
+    <a href="https://www.lzu.edu.cn">Lanzhou Univerisity</a>, 🇨🇳 in 2022.
 </p>
 
 <p>
@@ -67,29 +68,28 @@
     <img align="right" src="https://images.credly.com/size/680x680/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" width="150">
   </a>
 
-  我是 🇫🇮 <a href="https://www.aalto.fi/en">阿尔托大学</a><a
-    href="https://www.aalto.fi/en/department-of-computer-science">计算机科学系</a>的博士研究生。
-  同时也是 🇫🇮 <a href="https://www.aalto.fi/en">阿尔托大学</a>和 🇩🇰 <a
-    href="https://www.dtu.dk/english">丹麦技术大学</a>的<strong> 🇪🇺 伊拉斯谟世界计划</strong><a
-    href="https://secclo.eu/">SECCLO</a>硕士研究生项目2022级校友。
+  我目前是一位在 🇫🇮 <a href="https://www.aalto.fi/en">阿尔托大学</a><a
+    href="https://www.aalto.fi/en/department-of-computer-science">计算机科学系</a>从事<i>AI Infra</i>研究的博士生。
+  2024年，我在 🇫🇮 <a href="https://www.aalto.fi/en">阿尔托大学</a>和 🇩🇰 <a
+    href="https://www.dtu.dk/english">丹麦技术大学</a>完成了<strong> 🇪🇺 伊拉斯谟世界计划</strong>
+    <a href="https://secclo.eu/">SECCLO（<i>安全与云计算</i>）</a>硕士研究生项目。我于2022年
+    从 🇨🇳 <a href="https://www.lzu.edu.cn">兰州大学</a> <i>计算机科学与技术专业基地班</i>获得学士学位。
 </p>
 
 <p>
-  <a href="https://www.opensuse.org">
+  <a href="https://en.opensuse.org/openSUSE:Members">
     <img src="https://static.opensuse.org/favicon.svg" width="20" alt="🦎">
-  </a>&nbsp; I'm also an <a href="https://en.opensuse.org/openSUSE:Members"><strong>openSUSE member</strong></a>,
-  check <a href="https://en.opensuse.org/User:Hollowman"><strong>my profile</strong></a> here.
+  </a>&nbsp; I'm also an <a href="https://en.opensuse.org/User:Hollowman"><strong>openSUSE member</strong></a>.
 </p>
 
 <p>
-  我也是一名 <a href="https://zh.opensuse.org/openSUSE:Members"><strong>openSUSE 会员</strong></a>，这里是<a
-    href="https://en.opensuse.org/User:Hollowman"><strong>我的资料（英文）</strong></a>。
+  我也是一名 <a href="https://zh.opensuse.org/openSUSE:Members"><strong>openSUSE 会员</strong></a>。
 </p>
 
 <p>
   <a href="http://hollowman6.github.io/">
     <img align="right"
-      src="https://github-profile-trophy.vercel.app/?username=HollowMan6&theme=onedark&row=2&column=4&no-frame=true&margin-w=16&margin-h=16&no-bg=true"
+      src="https://trophygh.kolioaris.xyz/?username=HollowMan6&theme=onedark&row=2&column=4&no-frame=true&margin-w=16&margin-h=16&no-bg=true"
       alt="Statistics about Hollow Man">
   </a>
 </p>
@@ -164,7 +164,7 @@
   </ul>
 </details>
 
-⬅️ Find more on the right ⭐ 右侧可以找到更多
+⬅️ Find more on the left ⭐ 左侧可以找到更多
 <p>
   <a href="https://github-readme-stats.vercel.app/api/wakatime?username=hollowman6&layout=compact&hide=other">
     <!-- <picture>
